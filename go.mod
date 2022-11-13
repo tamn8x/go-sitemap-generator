@@ -1,4 +1,4 @@
-module github.com/tamn8x/go-sitemap-generator/v2
+module github.com/tamn8x/go-sitemap-generator/v3
 
 go 1.9
 
